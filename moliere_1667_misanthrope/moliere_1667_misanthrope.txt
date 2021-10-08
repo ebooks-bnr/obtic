@@ -1226,7 +1226,7 @@ Partout, il porte un Air qui saute aux yeux, d'abord ;
 Et lorsqu'on le revoit, après un peu d'absence,  
 On le retrouve, encor, plus plein d'extravagance.  
 
-    ACASTE.
+    Acaste.
 Parbleu, s'il faut parler de Gens extravagants,  
 Je viens d'en essuyer un des plus fatigants ;  
 Damon, le Raisonneur, qui m'a, ne vous déplaise,  
@@ -1256,7 +1256,7 @@ Un Secret à vous dire, et ce Secret n'est rien ;
 De la moindre Vétille, il fait une Merveille,  
 Et, jusques au Bonjour, il dit tout à l'oreille.  
 
-    ACASTE.
+    Acaste.
 Et Géralde, Madame ?  
 
     Célimène.
@@ -1287,7 +1287,7 @@ Traîne en une longueur, encore, épouvantable ;
 Et l'on demande l'heure, et l'on bâille vingt fois,  
 Qu'elle grouille aussi peu qu'une Pièce de Bois.  
 
-    ACASTE.
+    Acaste.
 Que vous semble d'Adraste ?  
 
     Célimène.
@@ -1341,7 +1341,7 @@ Ce sont Propos trop bas, pour y daigner descendre ;
 Et, les deux bras croisés, du haut de son Esprit,  
 Il regarde en pitié, tout ce que chacun dit.  
 
-    ACASTE.
+    Acaste.
 Dieu me damne, voilà son Portrait véritable.  
 
     Clitandre.
@@ -1416,7 +1416,7 @@ Ce grand attachement aux Défauts qu'on y blâme.
 Pour moi, je ne sais pas ; mais j'avouerai, tout haut,  
 Que j'ai cru, jusqu'ici, Madame sans Défaut.  
 
-    ACASTE.
+    Acaste.
 De Grâces, et d'Attraits, je vois qu'elle est pourvue ;  
 Mais les Défauts qu'elle a, ne frappent point ma vue.  
 
@@ -1466,7 +1466,7 @@ Et moi, je soutiens, moi…
 Et dans la Galerie, allons faire deux tours.  
 Quoi ! vous vous en allez, Messieurs ?  
 
-    Clitandre*et* ACASTE.
+    Clitandre*et*acaste.
         Non pas, Madame.  
 
     Alceste.
@@ -1474,7 +1474,7 @@ La peur de leur départ, occupe fort votre Âme ;
 Sortez quand vous voudrez, Messieurs ; mais j'avertis,  
 Que je ne sors qu'après que vous serez sortis.  
 
-    ACASTE.
+    Acaste.
 À moins de voir Madame en être importunée,  
 Rien ne m'appelle, ailleurs, de toute la journée.  
 
@@ -1613,7 +1613,7 @@ Toute chose t'égaye, et rien ne t'inquiète.
 En bonne foi, crois-tu, sans t'éblouir les yeux,  
 Avoir de grands sujets de paraître joyeux ?  
 
-    ACASTE.
+    Acaste.
 Parbleu, je ne vois pas, lorsque je m'examine,  
 Où prendre aucun sujet d'avoir l'Âme chagrine.  
 J'ai du bien, je suis jeune, et sors d'une Maison  
@@ -1643,7 +1643,7 @@ Qu'on peut, par tout Pays, être content de soi.
 Oui, mais trouvant ailleurs, des Conquêtes faciles,  
 Pourquoi pousser ici des soupirs inutiles ?  
 
-    ACASTE.
+    Acaste.
 Moi ? parbleu, je ne suis de taille, ni d'humeur,  
 À pouvoir, d'une Belle, essuyer la froideur.  
 C'est aux Gens mal tournés, aux Mérites vulgaires,  
@@ -1664,52 +1664,52 @@ Il faut, qu'à frais communs, se fassent les avances.
     Clitandre.
 Tu penses donc, Marquis, être fort bien ici ?  
 
-    ACASTE.
+    Acaste.
 J'ai quelque lieu, Marquis, de le penser ainsi.  
 
     Clitandre.
 Crois-moi, détache-toi de cette erreur extrême ;  
 Tu te flattes, mon Cher, et t'aveugles toi-même.  
 
-    ACASTE.
+    Acaste.
 Il est vrai, je me flatte, et m'aveugle, en effet.  
 
     Clitandre.
 Mais, qui te fait juger ton bonheur si parfait ?  
 
-    ACASTE.
+    Acaste.
 Je me flatte.  
 
     Clitandre.
         Sur quoi fonder tes Conjectures ?  
 
-    ACASTE.
+    Acaste.
 Je m'aveugle.  
 
     Clitandre.
         En as-tu des preuves qui soient sûres ?  
 
-    ACASTE.
+    Acaste.
 Je m'abuse, te dis-je.  
 
     Clitandre.
         Est-ce que de ses vœux,  
 Célimène t'a fait quelques secrets aveux ?  
 
-    ACASTE.
+    Acaste.
 Non, je suis maltraité.  
 
     Clitandre.
         Réponds-moi, je te prie.  
 
-    ACASTE.
+    Acaste.
 Je n'ai que des rebuts.  
 
     Clitandre.
         Laissons la raillerie,  
 Et me dis quel espoir on peut t'avoir donné ?  
 
-    ACASTE.
+    Acaste.
 Je suis le Misérable, et toi le Fortuné,  
 On a, pour ma Personne, une aversion grande ;  
 Et quelqu'un de ces jours, il faut que je me pende.  
@@ -1722,7 +1722,7 @@ D'avoir meilleure part au Cœur de Célimène,
 L'autre ici, fera place au Vainqueur prétendu,  
 Et le délivrera d'un Rival assidu ?  
 
-    ACASTE.
+    Acaste.
 Ah ! parbleu, tu me plais, avec un tel langage ;  
 Et du bon de mon cœur, à cela je m'engage.  
 Mais chut.  
@@ -1763,7 +1763,7 @@ Monte ici, pour vous voir.
     Célimène.
 De quoi s'avise-t-elle ? et qui la fait venir ?  
 
-    ACASTE.
+    Acaste.
 Pour Prude consommée, en tous Lieux elle passe ;  
 Et l'ardeur de son zèle…  
 
@@ -1798,19 +1798,19 @@ Arsinoé, Célimène
         Ah ! quel heureux Sort, en ce Lieu vous amène ?  
 Madame, sans mentir, j'étais de vous, en peine.  
 
-    ARSINOÉ.
+    Arsinoé.
 Je viens, pour quelque avis que j'ai cru vous devoir.  
 
     Célimène.
 Ah ! mon Dieu, que je suis contente de vous voir !  
 
-    ARSINOÉ.
+    Arsinoé.
 Leur départ ne pouvait, plus à propos, se faire.  
 
     Célimène.
 Voulons-nous nous asseoir ?  
 
-    ARSINOÉ.
+    Arsinoé.
         Il n'est pas nécessaire,  
 Madame ; l'Amitié doit surtout éclater  
 Aux choses, qui le plus, nous peuvent importer ;  
@@ -1897,7 +1897,7 @@ Pour ne pas prendre bien, cet avis profitable,
 Et pour l'attribuer qu'aux mouvements secrets,  
 D'un zèle qui m'attache à tous vos intérêts.  
 
-    ARSINOÉ.
+    Arsinoé.
 À quoi, qu'en reprenant, on soit assujettie,  
 Je ne m'attendais pas à cette repartie,  
 Madame, et je vois bien, par ce qu'elle a d'aigreur,  
@@ -1913,7 +1913,7 @@ Nous ne continuions cet office fidèle ;
 Et ne prenions grand soin de nous dire, entre nous,  
 Ce que nous entendrons, vous de moi, moi de vous.  
 
-    ARSINOÉ.
+    Arsinoé.
 Ah ! Madame, de vous, je ne puis rien entendre ;  
 C'est en moi que l'on peut trouver fort à reprendre.  
 
@@ -1929,7 +1929,7 @@ Je ne dis pas, qu'un jour, je ne suive vos traces,
 L'âge amènera tout, et ce n'est pas le temps,  
 Madame, comme on sait, d'être Prude à vingt ans.  
 
-    ARSINOÉ.
+    Arsinoé.
 Certes, vous vous targuez d'un bien faible Avantage,  
 Et vous faites sonner, terriblement, votre Âge :  
 Ce que, de plus que vous, on en pourrait avoir,  
@@ -1949,7 +1949,7 @@ Je n'y saurais que faire, et ce n'est pas ma faute ;
 Vous avez le Champ libre, et je n'empêche pas,  
 Que pour les attirer, vous n'ayez des Appas.  
 
-    ARSINOÉ.
+    Arsinoé.
 Hélas ! et croyez-vous que l'on se mette en peine  
 De ce nombre d'Amants dont vous faites la vaine :  
 Et qu'il ne nous soit pas fort aisé de juger,  
@@ -1980,7 +1980,7 @@ Ayez-en, donc, Madame, et voyons cette Affaire,
 Par ce rare Secret, efforcez-vous de plaire :  
 Et sans…  
 
-    ARSINOÉ.
+    Arsinoé.
         Brisons, Madame, un pareil Entretien,  
 Il pousserait trop loin votre Esprit, et le mien :  
 Et j'aurais pris, déjà, le congé qu'il faut prendre,  
@@ -2003,7 +2003,7 @@ D'excuser, aisément, mon incivilité.
 Alceste, Arsinoé
 
 
-    ARSINOÉ.
+    Arsinoé.
 Vous voyez, elle veut que je vous entretienne,  
 Attendant, un moment, que mon Carrosse vienne ;  
 Et jamais tous ses soins ne pouvaient m'offrir rien,  
@@ -2023,7 +2023,7 @@ Quel Service, à l'État, est-ce qu'on m'a vu rendre ?
 Qu'ai-je fait, s'il vous plaît, de si brillant de soi,  
 Pour me plaindre à la Cour, qu'on ne fait rien pour moi ?  
 
-    ARSINOÉ.
+    Arsinoé.
 Tous ceux, sur qui la Cour jette des yeux propices,  
 N'ont pas, toujours, rendu de ces fameux Services ;  
 Il faut l'Occasion, ainsi que le Pouvoir :  
@@ -2036,7 +2036,7 @@ De quoi voulez-vous, là, que la Cour s'embarrasse ?
 Elle aurait fort à faire, et ses soins seraient grands,  
 D'avoir à déterrer le Mérite des Gens.  
 
-    ARSINOÉ.
+    Arsinoé.
 Un Mérite éclatant se déterre lui-même ;  
 Du vôtre, en bien des Lieux, on fait un cas extrême ;  
 Et vous saurez, de moi, qu'en deux fort bons endroits,  
@@ -2050,7 +2050,7 @@ Ce n'est plus un Honneur, que de se voir loué ;
 D'Éloges, on regorge ; à la tête, on les jette,  
 Et mon Valet de Chambre est mis dans la Gazette.  
 
-    ARSINOÉ.
+    Arsinoé.
 Pour moi, je voudrais bien, que pour vous montrer mieux,  
 Une Charge, à la Cour, vous pût frapper les yeux :  
 Pour peu que d'y songer vous nous fassiez les mines,  
@@ -2078,7 +2078,7 @@ On n'a point à louer les Vers de Messieurs Tels,
 À donner de l'Encens à Madame une Telle,  
 Et de nos francs Marquis, essuyer la cervelle.  
 
-    ARSINOÉ.
+    Arsinoé.
 Laissons, puisqu'il vous plaît, ce Chapitre de Cour,  
 Mais il faut que mon Cœur vous plaigne en votre amour ;  
 Et pour vous découvrir, là-dessus, mes pensées,  
@@ -2090,7 +2090,7 @@ Et celle qui vous charme, est indigne de vous.
 Mais, disant cela, songez-vous, je vous prie,  
 Que cette Personne est, Madame, votre Amie ?  
 
-    ARSINOÉ.
+    Arsinoé.
 Oui, mais ma Conscience est blessée en effet,  
 De souffrir, plus longtemps, le tort que l'on vous fait :  
 L'état où je vous vois, afflige trop mon Âme,  
@@ -2100,7 +2100,7 @@ Et je vous donne avis, qu'on trahit votre flamme.
 C'est me montrer, Madame, un tendre mouvement ;  
 Et de pareils avis obligent un Amant.  
 
-    ARSINOÉ.
+    Arsinoé.
 Oui, toute mon Amie, elle est, et je la nomme  
 Indigne d'asservir le Cœur d'un galant Homme.  
 Et le sien n'a, pour vous, que de feintes douceurs.  
@@ -2110,7 +2110,7 @@ Cela se peut, Madame, on ne voit pas les Cœurs ;
 Mais votre charité se serait bien passée  
 De jeter, dans le mien, une telle pensée.  
 
-    ARSINOÉ.
+    Arsinoé.
 Si vous ne voulez pas être désabusé,  
 Il faut ne vous rien dire, il est assez aisé.  
 
@@ -2120,7 +2120,7 @@ Les doutes sont fâcheux, plus que toute autre chose ;
 Et je voudrais, pour moi, qu'on ne me fît savoir  
 Que ce, qu'avec clarté, l'on peut me faire voir.  
 
-    ARSINOÉ.
+    Arsinoé.
 Hé bien, c'est assez dit ; et, sur cette matière,  
 Vous allez recevoir une pleine lumière.  
 Oui, je veux que de tout, vos yeux vous fassent foi,  
@@ -3014,7 +3014,7 @@ Et moi, je vous entends, si vous ne parlez pas.
 Acaste, Clitandre, Arsinoé, Philinte, Éliante, Oronte, Célimène, Alceste
 
 
-    ACASTE.
+    Acaste.
 Madame, nous venons tous deux, sans vous déplaire,  
 Éclaircir, avec vous, une petite Affaire.  
 
@@ -3022,7 +3022,7 @@ Madame, nous venons tous deux, sans vous déplaire,
 Fort à propos, Messieurs, vous vous trouvez ici,  
 Et vous êtes mêlés dans cette Affaire, aussi.  
 
-    ARSINOÉ.
+    Arsinoé.
 Madame, vous serez surprise de ma vue,  
 Mais ce sont ces Messieurs qui causent ma venue ;  
 Tous deux ils m'ont trouvée, et se sont plaints à moi,  
@@ -3034,7 +3034,7 @@ Et l'Amitié passant sur de petits Discords,
 J'ai bien voulu, chez vous, leur faire compagnie,  
 Pour vous voir vous laver de cette Calomnie.  
 
-    ACASTE.
+    Acaste.
 Oui, Madame, voyons, d'un Esprit adouci,  
 Comment vous vous prendrez à soutenir ceci ?  
 Cette Lettre, par vous, est écrite à Clitandre ?  
@@ -3042,7 +3042,7 @@ Cette Lettre, par vous, est écrite à Clitandre ?
     Clitandre.
 Vous avez, pour Acaste, écrit ce Billet tendre ?  
 
-    ACASTE.
+    Acaste.
 Messieurs, ces Traits, pour vous, n'ont point d'obscurité,  
 Et je ne doute pas que sa civilité,  
 À connaître sa main, n'ait trop su vous instruire :  
@@ -3065,7 +3065,7 @@ Madame, et vous savez comment cela s'appelle ?
 Il suffit, nous allons l'un, et l'autre, en tous Lieux,  
 Montrer, de votre Cœur, le Portrait glorieux.  
 
-    ACASTE.
+    Acaste.
 J'aurais de quoi vous dire, et belle est la Matière,  
 Mais je ne vous tiens pas digne de ma colère ;  
 Et je vous ferai voir, que les petits Marquis  
@@ -3085,7 +3085,7 @@ Et trouve ma vengeance, en ce que vous perdez.
 Monsieur, je ne fais plus d'obstacle à votre flamme,  
 Et vous pouvez conclure Affaire avec Madame.  
 
-    ARSINOÉ.
+    Arsinoé.
 Certes, voilà le Trait du Monde le plus noir,  
 Je ne m'en saurais taire, et me sens émouvoir.  
 Voit-on des Procédés qui soient pareils aux vôtres ?  
@@ -3104,7 +3104,7 @@ Il n'est point en état de payer ce grand zèle ;
 Et ce n'est pas à vous, que je pourrai songer,  
 Si, par un autre Choix, je cherche à me venger.  
 
-    ARSINOÉ.
+    Arsinoé.
 Hé ! Croyez-vous, Monsieur, qu'on ait cette pensée,  
 Et que, de vous avoir, on soit tant empressée ?  
 Je vous trouve un Esprit bien plein de vanité,  
